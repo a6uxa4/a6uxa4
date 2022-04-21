@@ -1,0 +1,21 @@
+.glavnyi{
+    width: 750px;
+    height: 450px;
+    background-color: aqua;
+    border: 3px solid black;
+    border-radius: 30px;
+    margin-left: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.container{
+    width: 200px;
+    height: 100px;
+    background-color: burlywood;
+    border: 3px solid black;
+    border-radius: 30px;
+}
