@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm a6uxa4</h1>
-<h3 align="center">I am a Frontend developer who wanted full stack</h3>
+<h3 align="center">I am a Frontend developer who wants full stack</h3>
 <img width="400" align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="a6uxa4" />
 
 
