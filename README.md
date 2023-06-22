@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a6uxa4&label=Profile%20views&color=0e75b6&style=flat" alt="a6uxa4" /> </p>
 
-- 🔭 Worked on a project [Bilingual]([https://dentapp.online](https://github.com/peaksoft-school/js6-bilingual))
+- 🔭 Worked on a project [Bilingual](https://github.com/peaksoft-school/js6-bilingual)
 
 - 🔭 Worked on a project [DentApp](https://dentapp.online)
 
