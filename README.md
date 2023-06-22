@@ -4,11 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a6uxa4&label=Profile%20views&color=0e75b6&style=flat" alt="a6uxa4" /> </p>
 
+- 🔭 Worked on a project [Bilingual]([https://dentapp.online](https://github.com/peaksoft-school/js6-bilingual)
+
 - 🔭 Worked on a project [DentApp](https://dentapp.online)
+
+- 🔭 Worked on a project [Breath Of Production](http://breath-of-prodution-front.s3-website.eu-central-1.amazonaws.com/)
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
-- 🔭 I’m currently working on **Breath Of Production**
+- 🔭 I’m currently working on **Cheber**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a6uxa4](https://github.com/a6uxa4)
 
