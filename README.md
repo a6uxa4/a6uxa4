@@ -10,13 +10,15 @@
 
 - 🔭 Worked on a project [Breath Of Production](http://breath-of-prodution-front.s3-website.eu-central-1.amazonaws.com/)
 
+- 🔭 Worked on a project [Cheber](https://cheber.org)
+
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
-- 🔭 I’m currently working on **Cheber**
+- 🔭 I’m currently working on **BuyGo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a6uxa4](https://github.com/a6uxa4)
 
-- 💬 Ask me about **React.Js, JavaScript, Vue.Js, React-Native, TypeScript**
+- 💬 Ask me about **React.Js, JavaScript, Vue.Js, React-Native, TypeScript, Next.JS**
 
 - 📫 How to reach me **a6uxa4@icloud.com**
 
