@@ -12,9 +12,11 @@
 
 - 🔭 Worked on a project [Cheber](https://cheber.org)
 
+- 🔭 Worked on a project [BuyGo](https://seller.buygo.kg)
+
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
-- 🔭 I’m currently working on **BuyGo**
+- 🔭 I’m currently working on **BreathSPA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a6uxa4](https://github.com/a6uxa4)
 
