@@ -36,6 +36,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a6uxa4&show_icons=true&locale=en&layout=compact" alt="a6uxa4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a6uxa4&show_icons=true&locale=en" alt="a6uxa4" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=a6uxa4&show_icons=true&locale=en" alt="a6uxa4" /></p>
+
+<p>&nbsp;<img align="right" src="https://data.typeracer.com/misc/badge?user=a6uxa4" alt="TypeRacer.com scorecard for user a6uxa4"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a6uxa4&" alt="a6uxa4" /></p>
+
+
