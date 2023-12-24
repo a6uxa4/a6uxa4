@@ -13,10 +13,12 @@
 - 🔭 Worked on a project [Cheber](https://cheber.org)
 
 - 🔭 Worked on a project [BuyGo](https://seller.buygo.kg)
+  
+- 🔭 Worked on a project [BreathSPA](https://seller.buygo.kg](http://breath-of-prodution-front.s3-website.eu-central-1.amazonaws.com/))
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
-- 🔭 I’m currently working on **BreathSPA**
+- 🔭 I’m currently working on **EsteticLandingPage**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a6uxa4](https://github.com/a6uxa4)
 
