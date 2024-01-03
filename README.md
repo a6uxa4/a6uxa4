@@ -14,7 +14,7 @@
 
 - 🔭 Worked on a project [BuyGo](https://seller.buygo.kg)
   
-- 🔭 Worked on a project [BreathSPA](https://coolbrs.app/))
+- 🔭 Worked on a project [BreathSPA](https://coolbrs.app/)
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
