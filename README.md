@@ -16,9 +16,11 @@
   
 - 🔭 Worked on a project [BreathSPA](https://coolbrs.app/)
 
+- 🔭 Worked on a project [EsteticLandingPage](https://estetic.kg/)
+
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
-- 🔭 I’m currently working on **EsteticLandingPage**
+- 🔭 I’m currently working on **DrNoorlanLanding**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a6uxa4](https://github.com/a6uxa4)
 
