@@ -18,6 +18,8 @@
 
 - 🔭 Worked on a project [EsteticLandingPage](https://estetic.kg/)
 
+- 🔭 Worked on a project [DrNoorlanLanding](https://noorlan.com/)
+
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
 - 🔭 I’m currently working on **DrNoorlanLanding**
