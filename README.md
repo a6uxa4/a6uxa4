@@ -20,6 +20,8 @@
 
 - 🔭 Worked on a project [DrNoorlanLanding](https://noorlan.com/)
 
+- 🔭 Worked on a project [BishkekMarathon](https://bishkek-marathon-landing.vercel.app/ru)
+
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
 - 🔭 I’m currently working on **DrNoorlanLanding**
