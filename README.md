@@ -24,11 +24,9 @@
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
-- 🔭 I’m currently working on **DrNoorlanLanding**
-
 - 👨‍💻 All of my projects are available at [https://github.com/a6uxa4](https://github.com/a6uxa4)
 
-- 💬 Ask me about **React.Js, JavaScript, Vue.Js, React-Native, TypeScript, Next.JS**
+- 💬 Ask me about **React.Js, JavaScript, Vue.Js, React-Native, TypeScript, Next.JS, Node.js**
 
 - 📫 How to reach me **a6uxa4@icloud.com**
 
