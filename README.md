@@ -22,11 +22,11 @@
 
 - 🔭 Worked on a project [BishkekMarathon](https://bishkek-marathon-landing.vercel.app/ru)
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently learning **UI/UX Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a6uxa4](https://github.com/a6uxa4)
 
-- 💬 Ask me about **React.Js, JavaScript, Vue.Js, React-Native, TypeScript, Next.JS, Node.js**
+- 💬 Ask me about **React.Js, JavaScript, Vue.Js, React-Native, TypeScript, Next.JS, Node.js MongoDB**
 
 - 📫 How to reach me **a6uxa4@icloud.com**
 
